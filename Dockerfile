@@ -1,1 +1,2 @@
-FROM bitnami/apache2.4.18-r0
+FROM bitnami/apache
+USER root
