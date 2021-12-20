@@ -1,1 +1,1 @@
-FROM bitnami/mysql
+FROM bitnami/apache
